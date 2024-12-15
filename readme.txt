@@ -1,2 +1,2 @@
-rock paper scissor fame with bot (computer)
+rock paper scissor game with bot (computer).
 choose rock, paper or scissor play :)
